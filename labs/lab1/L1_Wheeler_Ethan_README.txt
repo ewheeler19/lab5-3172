@@ -1,4 +1,4 @@
-# CSCI 3172
+## CSCI 3172
 Author: Ethan wheeler
 BannerID: B00888251
 
