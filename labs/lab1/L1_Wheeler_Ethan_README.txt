@@ -5,7 +5,7 @@ BannerID: B00888251
 ##Files
 
 - [Link to Git repository] (https://git.cs.dal.ca/ewheeler/csci-3172) 
-- [Link to access website on timberlea] (https://web.cs.dal.ca/~ewheeler/csci3172/labs/lab1/)
+- [Link to access website on timberlea] (https://web.cs.dal.ca/~ewheeler/csci3172/labs/lab1/index.html)
 ***
 
 ## Name
