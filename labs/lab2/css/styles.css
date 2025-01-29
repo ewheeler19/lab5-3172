@@ -1,0 +1,16 @@
+#gradeTable{
+    text-align: center;
+    background-color: lightblue;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid darkblue;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
