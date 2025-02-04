@@ -70,6 +70,7 @@ function displayCreatures() {
         list.appendChild(listItem);
     }
     creaturesDiv.appendChild(list);
+    
 }
 
 // add listener on the form in the document and trigger when submit button is used
