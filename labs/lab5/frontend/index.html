@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommender</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Recommender</h1>
+        <form id="recipeForm">
+            <label for="ingredients">Enter Ingredients (comma-separated):</label>
+            <input type="text" id="ingredients" required>
+
+            <label for="diet">Select Dietary Preference:</label>
+            <select id="diet">
+                <option value="">None</option>
+                <option value="vegetarian">Vegetarian</option>
+                <option value="vegan">Vegan</option>
+                <option value="gluten free">Gluten-Free</option>
+                <option value="keto">Keto</option>
+            </select>
+
+            <button type="submit">Get Recipes</button>
+        </form>
+
+        <div id="results"></div>
+    </div>
+
+    <script src="frontend.js"></script>
+</body>
+</html>
